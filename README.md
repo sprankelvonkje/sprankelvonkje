@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sprankelvonkje
-- 👀 I’m interested in procesmanagement
+- 👀 I’m interested in processmanagement
 - 🌱 I’m currently learning how to gitgit my BPMN
 - 💞️ I’m looking to collaborate on publicgovernment
 - 📫 How to reach me know my number!
